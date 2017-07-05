@@ -1,0 +1,13 @@
+.container {
+    height: 720px;
+    width: 720px;
+    border-style: solid;
+    margin: auto;
+}
+
+.square {
+    height: 45px;
+    width: 45px;
+    float: left;
+    opacity: 0;
+}
